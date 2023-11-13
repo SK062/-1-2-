@@ -1,0 +1,40 @@
+﻿  lab2.cpp
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(1,4): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(3,7): error C2143: syntax error: missing ';' before '<class-head>'
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(3,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(16,14): error C2039: 'cout': is not a member of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(16,14): error C2065: 'cout': undeclared identifier
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(16,77): error C2039: 'endl': is not a member of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(16,77): error C2065: 'endl': undeclared identifier
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(33,14): error C2039: 'cout': is not a member of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(33,14): error C2065: 'cout': undeclared identifier
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(33,50): error C2039: 'endl': is not a member of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(33,50): error C2065: 'endl': undeclared identifier
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(38,14): error C2039: 'cout': is not a member of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(38,14): error C2065: 'cout': undeclared identifier
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(38,50): error C2039: 'endl': is not a member of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(38,50): error C2065: 'endl': undeclared identifier
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(55,14): error C2039: 'cout': is not a member of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(55,14): error C2065: 'cout': undeclared identifier
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(55,85): error C2039: 'endl': is not a member of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(55,85): error C2065: 'endl': undeclared identifier
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(89,10): error C2039: 'cout': is not a member of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(89,10): error C2065: 'cout': undeclared identifier
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(90,10): error C2039: 'cin': is not a member of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(90,10): error C2065: 'cin': undeclared identifier
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(92,10): error C2039: 'cout': is not a member of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(92,10): error C2065: 'cout': undeclared identifier
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(93,10): error C2039: 'cin': is not a member of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\UserHome\source\repos\lab2\lab2\lab2.cpp(93,10): error C2065: 'cin': undeclared identifier
